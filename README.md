@@ -7,6 +7,8 @@ Sou um **Desenvolvedor Full Stack** com experiência prática na criação de si
 * **Automação & Dados:** Desenvolvimento de scripts de Web Scraping e automação de processos complexos.
 * **Segurança:** Foco em escalabilidade e proteção de dados sensíveis em conformidade com a LGPD.
 
+### 🚀Tecnologias:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gabriel-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
