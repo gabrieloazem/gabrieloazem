@@ -1,6 +1,11 @@
-## Olá eu sou Gabriel Oazem, Desenvolvedor Fullstack !
+## Olá, eu sou o Gabriel Oazem! 👋
 
-Desenvolvedor Full Stack com experiência sólida no desenvolvimento de sistemas web de ponta a ponta, desde ambientes hospitalares a corporativos. Desenvolvedor com forte domínio em PHP, Python e JavaScript, possuo histórico comprovado na modelagem de bancos de dados, criação de APIs e automação de processos complexos. Focado em escalabilidade, segurança de dados (LGPD) e na resolução ágil de problemas técnicos.
+Sou um **Desenvolvedor Full Stack** com experiência prática na criação de sistemas web de ponta a ponta, atuando desde a modelagem de dados até a entrega da interface. 
+
+### 🚀 O que eu faço:
+* **Desenvolvimento Web:** Criação de aplicações robustas e APIs eficientes.
+* **Automação & Dados:** Desenvolvimento de scripts de Web Scraping e automação de processos complexos.
+* **Segurança:** Foco em escalabilidade e proteção de dados sensíveis em conformidade com a LGPD.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
